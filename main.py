@@ -1,7 +1,7 @@
 '''
 Extensibility list:
     - Have AI summarize and get the most important parts of the encounter
-    - Have user chose important vocab words they do not know and export into a CSV file for studying
+    - Have user choose important vocab words they do not know and export into a CSV file for studying
     - Highlight the text that is being read outloud by the text to speech
 
 '''
